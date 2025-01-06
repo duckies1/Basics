@@ -22,5 +22,5 @@ def repair_notebook(file_path):
 
 
 # Replace 'Cancer detect.ipynb' with your file name
-repair_notebook("Multiple Linear Regression.ipynb")
+repair_notebook("Logistic Regression.ipynb")
 
